@@ -34,6 +34,5 @@ class EventDispatcher:
         else:
             ...
 
-# --- Example Usage ---
 
 base = EventDispatcher()
